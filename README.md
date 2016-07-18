@@ -1,1 +1,6 @@
-# jsi-folder-struct
+## How to use
+
+```shell
+$ npm install
+$ npm start
+```
